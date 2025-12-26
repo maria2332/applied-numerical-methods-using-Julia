@@ -24,6 +24,7 @@
 An automatically generated documentation view of this repository is available via DeepWiki:
 
 👉 https://deepwiki.com/maria2332/applied-numerical-methods-using-Julia
+
 ---
 
 ## 📘 Project Overview
